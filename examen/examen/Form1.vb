@@ -83,23 +83,23 @@
                     If km > 1200 Then
                         total1 = tot - (tot * 0.15)
                         total = total1 - (total1 * 0.02)
-                        puntos = km * 0.32
+                        puntos = (km * 0.30) + (km * 0.02)
                     ElseIf km > 800 Then
                         total1 = tot - (tot * 0.09)
                         total = total1 - (total1 * 0.02)
-                        puntos = km * 0.2
+                        puntos = (km * 0.18) + (km * 0.02)
                     ElseIf km > 600 Then
                         total1 = tot - (tot * 0.05)
                         total = total1 - (total1 * 0.02)
-                        puntos = km * 0.17
+                        puntos = (km * 0.15) + (km * 0.02)
                     ElseIf km > 400 Then
                         total1 = tot - (tot * 0.04)
                         total = total1 - (total1 * 0.02)
-                        puntos = km * 0.12
+                        puntos = (km * 0.10) + (km * 0.02)
                     ElseIf km <= 400 Then
                         total1 = tot - (tot * 0.03)
                         total = total1 - (total1 * 0.02)
-                        puntos = km * 0.1
+                        puntos = (km * 0.8) + (km * 0.02)
                     End If
 
 
@@ -110,22 +110,22 @@
 
                     If redon > 1200 Then
                         total = totre - (totre * 0.1) - (totre - (totre * 0.2) * 0.02)
-                        puntos = redon * 0.32
+                        puntos = (redon * 0.30) + (redon * 0.02)
                     ElseIf redon > 800 Then
                         total = totre - (totre * 0.1) - (totre - (totre * 0.1) * 0.02)
-                        puntos = redon * 0.27
+                        puntos = (redon * 0.25) + (redon * 0.02)
                     ElseIf redon > 600 Then
                         total1 = (totre - (totre * 0.05)) - ((totre - (totre * 0.05)) * 0.07)
                         total = total1 - (total1 * 0.02)
-                        puntos = redon * 0.22
+                        puntos = (redon * 0.20) + (redon * 0.02)
                     ElseIf redon > 400 Then
                         total1 = (totre - (totre * 0.04)) - ((totre - (totre * 0.04)) * 0.06)
                         total = total1 - (total1 * 0.02)
-                        puntos = redon * 0.17
+                        puntos = (redon * 0.15) + (redon * 0.02)
                     ElseIf redon <= 400 Then
                         total1 = (totre - (totre * 0.03)) - ((totre - (totre * 0.03)) * 0.04)
                         total = total1 - (total1 * 0.02)
-                        puntos = redon * 0.1
+                        puntos = (redon * 0.8) + (redon * 0.02)
                     End If
 
 
