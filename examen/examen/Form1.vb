@@ -99,7 +99,7 @@
                     ElseIf km <= 400 Then
                         total1 = tot - (tot * 0.03)
                         total = total1 - (total1 * 0.02)
-                        puntos = (km * 0.8) + (km * 0.02)
+                        puntos = (km * 0.08) + (km * 0.02)
                     End If
 
 
@@ -125,7 +125,7 @@
                     ElseIf redon <= 400 Then
                         total1 = (totre - (totre * 0.03)) - ((totre - (totre * 0.03)) * 0.04)
                         total = total1 - (total1 * 0.02)
-                        puntos = (redon * 0.8) + (redon * 0.02)
+                        puntos = (redon * 0.08) + (redon * 0.02)
                     End If
 
 
