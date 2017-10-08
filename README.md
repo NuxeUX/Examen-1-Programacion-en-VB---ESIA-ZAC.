@@ -4,4 +4,3 @@ Esta es la propuesta de Examen 1er parcial - Programación del II Semestre en la
 
 Realizado el mismo dia del Sismo 19/09/17 :( ---> #FuerzaMéxico
 
-<a href='' target='_blank'><img height='36' style='border:0px;height:36px;' src='http://1.bp.blogspot.com/-5mgZNsI1n2I/WciBSkcY0FI/AAAAAAAABBM/zxxkwmWEMu4jKufxyaIpZ3giRQWeqwz5gCK4BGAYYCw/s1600/kofi2.png' border='0' alt='programacion' /></a>
