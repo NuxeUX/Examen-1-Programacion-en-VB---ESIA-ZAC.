@@ -5,4 +5,8 @@ Esta es la propuesta de Examen 1er parcial - Programación del II Semestre en la
 Realizado el mismo dia del Sismo 19/09/17 :( ---> #FuerzaMéxico
 
 ... 4 años mas tarde se repite un sismmo el mismo dia,  07/09/21  o_O
+
+
+
+
 en espera del 19 de Septiembre .... Y/N
